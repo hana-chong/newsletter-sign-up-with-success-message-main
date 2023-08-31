@@ -168,8 +168,8 @@ h1{
 /*success desktop*/
 
 .success-content {
-    height: 300px;
-    width: 300px;
+    height: 400px;
+    width: 400px;
 }
 .check-img {
     height:50px;
@@ -181,7 +181,7 @@ h1{
 }
 .success-txt {
     padding-right: 50px;
-    line-height: 1.5em;
+    line-height: 1em;
     margin: 0 20px;
 }
 .dismiss-btn {
