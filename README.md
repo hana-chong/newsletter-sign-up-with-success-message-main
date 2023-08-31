@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/hana-chong/newsletter-sign-up-with-success-message-main)
+- Live Site URL: [Add live site URL here](https://hana-chong.github.io/newsletter-sign-up-with-success-message-main/)
 
 ## My process
 
