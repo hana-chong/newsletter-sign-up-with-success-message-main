@@ -124,8 +124,8 @@ body {
     background-color: hsl(235, 18%, 26%);
 }
 .container {
-    width: 800px;
-    height: 625px;
+    width: 900px;
+    height: 725px;
     margin: 15vh auto;
     border-radius: 30px;
 }
